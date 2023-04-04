@@ -15,13 +15,13 @@ const Featured = () => {
             </div>
             <button>Search</button>
           </div>
-          <div className="popular">
+          {/* <div className="popular">
             <span>Popular:</span>
             <button>Web Design</button>
             <button>WordPress</button>
             <button>Logo Design</button>
             <button>AI Services</button>
-          </div>
+          </div> */}
         </div>
         <div className="right">
           <img src="./img/man.png" alt="" />

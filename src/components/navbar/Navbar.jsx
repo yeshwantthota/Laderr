@@ -14,9 +14,9 @@ function Navbar() {
 
   useEffect(() => {
     window.addEventListener("scroll", isActive);
-    // return () => {
-    //   // window.removeEventListener("scroll", isActive);
-    // };
+    return () => {
+      window.removeEventListener("scroll", isActive);
+    };
   }, []);
 
   // const currentUser = null
@@ -87,22 +87,22 @@ function Navbar() {
           <hr />
           <div className="menu">
             <Link className="link menuLink" to="/">
-              Graphics & Design
+              Healthcare
             </Link>
             <Link className="link menuLink" to="/">
-              Video & Animation
+              Finance
             </Link>
             <Link className="link menuLink" to="/">
-              Writing & Translation
+              Technology
             </Link>
             <Link className="link menuLink" to="/">
-              AI Services
+              Energy
             </Link>
             <Link className="link menuLink" to="/">
-              Digital Marketing
+              Consumer Goods
             </Link>
             <Link className="link menuLink" to="/">
-              Music & Audio
+              Entertainment
             </Link>
             <Link className="link menuLink" to="/">
               Programming & Tech
