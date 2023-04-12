@@ -11,10 +11,10 @@ const MyGigs = () => {
     <div className="myGigs">
       <div className="container">
         <div className="title">
-          <h1>{currentUser.isSeller ? "Gigs" : "Orders"}</h1>
+          <h1>{currentUser.isSeller ? "My Innovations" : "My Investment"}</h1>
           {currentUser.isSeller && (
             <Link to="/add">
-              <button>Add New Gig</button>
+              <button>Add New Innovation</button>
             </Link>
           )}
         </div>
@@ -22,8 +22,8 @@ const MyGigs = () => {
           <tr>
             <th>Image</th>
             <th>Title</th>
-            <th>Price</th>
-            <th>Sales</th>
+            <th>Amount</th>
+            <th>No. of Investment</th>
             <th>Action</th>
           </tr>
           <tr>

@@ -13,7 +13,7 @@ const Orders = () => {
     <div className="orders">
       <div className="container">
         <div className="title">
-          <h1>Orders</h1>
+          <h1>My Investment</h1>
         </div>
         <table>
           <tr>

@@ -7,17 +7,17 @@ const footer = () => {
         <div className="top">
           <div className="item">
             <h2>Categories</h2>
-            <span>Graphics & Design</span>
-            <span>Digital Marketing</span>
-            <span>Writing & Translation</span>
-            <span>Video & Animation</span>
-            <span>Music & Audio</span>
-            <span>Programming & Tech</span>
-            <span>Data</span>
-            <span>Business</span>
-            <span>Lifestyle</span>
-            <span>Photography</span>
-            <span>Sitemap</span>
+            <span>Technology</span>
+            <span>Health and wellness</span>
+            <span>Sustainability</span>
+            <span>Consumer products</span>
+            <span>Education</span>
+            <span>Finance</span>
+            <span>Transportation and logistics</span>
+            <span>Real estate</span>
+            <span>Industrial</span>
+            <span>Gaming</span>
+            <span>Agriculture and food</span>
           </div>
           <div className="item">
             <h2>About</h2>
@@ -33,12 +33,12 @@ const footer = () => {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Investing on Laderr</span>
+            <span>Posting on Laderr</span>
           </div>
           <div className="item">
             <h2>Community</h2>
-            <span>Customer Success Stories</span>
+            <span>Investment Success Stories</span>
             <span>Community hub</span>
             <span>Forum</span>
             <span>Events</span>
@@ -47,28 +47,28 @@ const footer = () => {
             <span>Affiliates</span>
             <span>Podcast</span>
             <span>Invite a Friend</span>
-            <span>Become a Seller</span>
+            <span>Become a Investor</span>
             <span>Community Standards</span>
           </div>
-          <div className="item">
+          {/* <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>Laderr Business</span>
+            <span>Laderr Pro</span>
+            <span>Laderr Logo Maker</span>
+            <span>Laderr Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>Laderr Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>Laderr Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
-          </div>
+          </div> */}
         </div>
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>Laderr</h2>
+            <span>© Laderr International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
@@ -82,10 +82,10 @@ const footer = () => {
               <img src="/img/language.png" alt="" />
               <span>English</span>
             </div>
-            <div className="link">
+            {/* <div className="link">
               <img src="/img/coin.png" alt="" />
               <span>USD</span>
-            </div>
+            </div> */}
             <img src="/img/accessibility.png" alt="" />
           </div>
         </div>

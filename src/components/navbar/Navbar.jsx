@@ -23,7 +23,7 @@ function Navbar() {
 
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "User1",
     isSeller: true,
   };
 
@@ -32,12 +32,12 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <Link className="link" to="/">
-            <span className="text">liderr</span>
+            <span className="text">Laderr</span>
           </Link>
           <span className="dot">.</span>
         </div>
         <div className="links">
-          <span>Liverr Business</span>
+          {/* <span>Laderr Business</span> */}
           <span>Explore</span>
           <span>English</span>
           {!currentUser?.isSeller && <span>Become a Seller</span>}
@@ -53,15 +53,15 @@ function Navbar() {
                   {currentUser.isSeller && (
                     <>
                       <Link className="link" to="/mygigs">
-                        Gigs
+                        Innovations
                       </Link>
                       <Link className="link" to="/add">
-                        Add New Gig
+                        Add New Innovation
                       </Link>
                     </>
                   )}
                   <Link className="link" to="/orders">
-                    Orders
+                    Investments
                   </Link>
                   <Link className="link" to="/messages">
                     Messages

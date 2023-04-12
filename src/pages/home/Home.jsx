@@ -20,30 +20,33 @@ const Home = () => {
       <div className="features">
         <div className="container">
           <div className="item">
-            <h1>A whole world of freelance talent at your fingertips</h1>
+            <h1>
+              Discover a diverse world of creative minds within your reach
+            </h1>
             <div className="title">
               <img src="./img/check.png" alt="" />
-              The best for every budget
+              Access the top talent for every investment level
             </div>
             <p>
-              Find high-quality services at every price point. No hourly rates,
-              just project-based pricing.
+              Discover exceptional services tailored to your funding. No hidden
+              fees, only transparent project-based costs.
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Protected payments, every time
+              Guaranteed secure payments, every step of the way
             </div>
             <p>
-              Always know what you'll pay upfront. Your payment isnt't released
-              until you approve the work.
+              Stay in control of your investment. Your funds are safeguarded
+              until you're satisfied with the outcome.
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
-              24/7 support
+              Round-the-clock assistance
             </div>
             <p>
-              Find high-quality services at every price point. No hourly rates,
-              just project-based pricing.
+              Experience exceptional support throughout your investment journey.
+              Whether you're seeking new opportunities or finalizing a project,
+              we're here for you.
             </p>
           </div>
           <div className="item">
@@ -51,7 +54,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="explore">
+
+      {/* <div className="explore">
         <div className="container">
           <h1>Explore the marketplace</h1>
           <div className="items">
@@ -138,9 +142,9 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
-      <div className="features dark">
+      {/* <div className="features dark">
         <div className="container">
           <div className="item">
             <h1>
@@ -176,7 +180,7 @@ const Home = () => {
             />
           </div>
         </div>
-      </div>
+      </div> */}
       <Slide slidesToShow={4} arrowsScroll={4}>
         {projects.map((card) => (
           <ProjectCard key={card.id} card={card} />
