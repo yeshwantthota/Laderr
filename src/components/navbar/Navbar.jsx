@@ -21,7 +21,9 @@ function Navbar() {
   }, []);
 
   const currentUser = JSON.parse(localStorage.getItem("currentUser"));
-
+  if (currentUser !== null) {
+    currentUser.isSeller = true;
+  }
   const navigate = useNavigate();
 
   const handleLogout = async () => {
