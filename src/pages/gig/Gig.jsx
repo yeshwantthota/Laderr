@@ -6,8 +6,8 @@ const Gig = () => {
     <div className="gig">
       <div className="container">
         <div className="left">
-          <span className="breadcrumbs">Liverr > Graphics & Design ></span>
-          <h1>I will create ai generated art for you</h1>
+          <span className="breadcrumbs">Laderr > Health & Wellness ></span>
+          <h1>New Innovation in health Industry</h1>
           <div className="user">
             <img
               className="pp"
@@ -38,24 +38,35 @@ const Gig = () => {
               alt=""
             />
           </Slider>
-          <h2>About This Gig</h2>
+          <h2>About This Innovation</h2>
           <p>
-            I use an AI program to create images based on text prompts. This
-            means I can help you to create a vision you have through a textual
-            description of your scene without requiring any reference images.
-            Some things I've found it often excels at are: Character portraits
-            (E.g. a picture to go with your DnD character) Landscapes (E.g.
-            wallpapers, illustrations to compliment a story) Logos (E.g. Esports
-            team, business, profile picture) You can be as vague or as
-            descriptive as you want. Being more vague will allow the AI to be
-            more creative which can sometimes result in some amazing images. You
-            can also be incredibly precise if you have a clear image of what you
-            want in mind. All of the images I create are original and will be
-            found nowhere else. If you have any questions you're more than
-            welcome to send me a message.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Dignissimos fuga dolorum corporis tenetur, ipsum assumenda laborum
+            amet illum delectus impedit nisi consequatur cum aliquam rerum non
+            sunt sapiente esse quas culpa sed. Qui aliquid voluptatem, cumque
+            molestias numquam ex illo enim ratione autem, velit, optio esse
+            ipsam debitis minima tempora omnis vel veniam? Id cumque vero odio
+            eveniet dicta officia quas nisi tenetur nam, quibusdam soluta hic
+            aspernatur atque quae blanditiis, quia unde quaerat, in laudantium
+            corporis quos. Maxime ratione ducimus voluptates. Error perferendis
+            nihil voluptatibus quos aliquam porro quidem, culpa sunt aperiam et
+            deleniti, corporis quae numquam sit necessitatibus facilis
+            praesentium magnam. Hic temporibus labore necessitatibus eligendi,
+            accusantium nisi? Obcaecati illum accusamus repudiandae facilis
+            assumenda consequatur. Cum, cupiditate! Accusamus veniam, ut
+            officiis quibusdam porro deleniti nam dolorem, perferendis
+            laboriosam dignissimos praesentium? Laborum a eius quaerat soluta
+            natus inventore qui eveniet? Ex numquam corrupti voluptatem
+            consectetur voluptatum exercitationem facere fugiat velit.
+            Reiciendis commodi, perspiciatis ea aspernatur recusandae laudantium
+            neque quia. Quisquam voluptatibus placeat hic aut. Dolorum fugiat
+            rem impedit voluptas facilis aspernatur a ea voluptate voluptates
+            consequuntur quia voluptatem placeat blanditiis debitis porro
+            repellendus sed laboriosam, itaque amet, numquam odio vero! Nisi
+            ullam laboriosam beatae distinctio earum! Ea, aliquid illo.
           </p>
           <div className="seller">
-            <h2>About The Seller</h2>
+            <h2>About The Innovator</h2>
             <div className="user">
               <img
                 src="https://images.pexels.com/photos/720327/pexels-photo-720327.jpeg?auto=compress&cs=tinysrgb&w=1600"
@@ -99,10 +110,13 @@ const Gig = () => {
               </div>
               <hr />
               <p>
-                My name is Anna, I enjoy creating AI generated art in my spare
-                time. I have a lot of experience using the AI program and that
-                means I know what to prompt the AI with to get a great and
-                incredibly detailed result.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
+                autem, dignissimos ex, architecto eos fugiat odio nobis quam,
+                obcaecati soluta est! Magnam eos, perferendis sequi odit
+                nesciunt cupiditate repudiandae nihil! Exercitationem odit
+                totam, doloremque temporibus reprehenderit repellat minima saepe
+                ea quam obcaecati quo reiciendis! Id eveniet consequatur fugiat
+                quaerat iusto.
               </p>
             </div>
           </div>
@@ -135,12 +149,12 @@ const Gig = () => {
                 <span>5</span>
               </div>
               <p>
-                I just want to say that art_with_ai was the first, and after
-                this, the only artist Ill be using on Fiverr. Communication was
-                amazing, each and every day he sent me images that I was free to
-                request changes to. They listened, understood, and delivered
-                above and beyond my expectations. I absolutely recommend this
-                gig, and know already that Ill be using it again very very soon
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum
+                cupiditate laborum culpa ipsam repellat? Error magni sapiente in
+                nobis commodi sed quaerat quo enim. Officiis laborum molestiae
+                dolorum ad at praesentium numquam amet fugiat accusamus non
+                dicta, soluta a magni quos, deserunt fugit ipsa eaque natus id
+                autem ut voluptate.
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -178,10 +192,12 @@ const Gig = () => {
                 <span>5</span>
               </div>
               <p>
-                The designer took my photo for my book cover to the next level!
-                Professionalism and ease of working with designer along with
-                punctuality is above industry standards!! Whatever your project
-                is, you need this designer!
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam
+                necessitatibus harum accusamus provident quisquam, sed vero sit.
+                Pariatur rem magnam quis qui laboriosam? Expedita ullam qui
+                eligendi, quaerat iste maiores sed? Nihil, officia
+                necessitatibus ratione ad illo omnis iure dolor modi quas nulla.
+                Assumenda hic dolorum dicta amet odio mollitia?
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -219,11 +235,13 @@ const Gig = () => {
                 <span>5</span>
               </div>
               <p>
-                Amazing work! Communication was amazing, each and every day he
-                sent me images that I was free to request changes to. They
-                listened, understood, and delivered above and beyond my
-                expectations. I absolutely recommend this gig, and know already
-                that Ill be using it again very very soon
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam
+                doloremque accusamus ipsum sequi, dolorum nihil? Minus,
+                distinctio sequi consequatur accusamus aspernatur et repellat
+                dolorum harum ex, optio, delectus est error consectetur a amet
+                itaque totam repellendus dolorem voluptatibus ad sit illo. Hic
+                nam temporibus accusamus, illum aliquam facilis accusantium
+                debitis.
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -237,14 +255,16 @@ const Gig = () => {
         </div>
         <div className="right">
           <div className="price">
-            <h3>1 AI generated image</h3>
+            <h3>3D - devices</h3>
             <h2>$ 59.99</h2>
           </div>
           <p>
-            I will create a unique high quality AI generated image based on a
-            description that you give me
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet
+            expedita mollitia, consequatur quasi cum praesentium at consequuntur
+            perspiciatis explicabo. Laborum atque itaque praesentium magni
+            necessitatibus.
           </p>
-          <div className="details">
+          {/* <div className="details">
             <div className="item">
               <img src="/img/clock.png" alt="" />
               <span>2 Days Delivery</span>
@@ -253,26 +273,26 @@ const Gig = () => {
               <img src="/img/recycle.png" alt="" />
               <span>3 Revisions</span>
             </div>
-          </div>
+          </div> */}
           <div className="features">
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Prompt writing</span>
+              <span>Lorem, ipsum.</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Artwork delivery</span>
+              <span>Lorem, ipsum.</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Image upscaling</span>
+              <span>Lorem, ipsum dolor.</span>
             </div>
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
-              <span>Additional design</span>
+              <span>Lorem, ipsum.</span>
             </div>
           </div>
-          <button>Continue</button>
+          <button>Invest</button>
         </div>
       </div>
     </div>

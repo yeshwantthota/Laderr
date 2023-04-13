@@ -19,8 +19,8 @@ const Orders = () => {
           <tr>
             <th>Image</th>
             <th>Title</th>
-            <th>Price</th>
-            {<th>{currentUser.isSeller ? "Buyer" : "Seller"}</th>}
+            <th>Amount</th>
+            {<th>{currentUser.isSeller ? "Investor" : "Innovator"}</th>}
             <th>Contact</th>
           </tr>
           <tr>
